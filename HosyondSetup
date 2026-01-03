@@ -1,0 +1,14 @@
+Step 1, Install Raspbian official image
+
+Step 2, modify the “config.txt”
+
+Add the following to the bottom:
+
+max_usb_current=1
+hdmi_force_hotplug=1
+config_hdmi_boost=7
+hdmi_group=2
+hdmi_mode=87
+hdmi_drive=1
+display_rotate=0
+hdmi_cvt 1024 600 60 6 0 0 0
