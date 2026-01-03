@@ -8,6 +8,8 @@ Built using the following:
 
 - Raspberry Pi 5 16 GB
 
+- 7 Inch IPS LCD Touch Screen Display Panel 1024×600 Capacitive Screen HDMI Monitor for Raspberry Pi
+
 - Geekworm X1001 PCIe to M.2 HAT Key-M NVMe SSD PIP PCIe Peripheral Board for Raspberry Pi 5 Support M.2 2230/2242/2260/2280 SSD
 
 - GeeekPi Active Cooler for Raspberry Pi 5, Armor Lite V5 Cooler for Raspberry Pi 5, Aluminum Heatsink and Cooling Fan for Raspberry Pi 5
