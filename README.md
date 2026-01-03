@@ -1,6 +1,6 @@
 # ARMA_SpectrumDevice
 
-My device based on the ARMA 3: Contact spectrum device
+My device based on the ARMA 3 Contact spectrum device
 
 Built using the following:
 
