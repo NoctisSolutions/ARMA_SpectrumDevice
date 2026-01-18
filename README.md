@@ -16,4 +16,6 @@ Built using the following:
 
 - ORICO 256GB M.2 NVMe SSD, PCIe Gen3x4 2280 SSD - Up to 2400MB/s, Internal Solid State Drive with TLC NAND Flash, Compatible with Raspberry Pi 5 Desktop Laptop - D10
 
+Screws and Nuts:
+
 - 4x M4 x 10mm screws and hex nuts
