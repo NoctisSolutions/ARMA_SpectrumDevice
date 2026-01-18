@@ -15,3 +15,5 @@ Built using the following:
 - GeeekPi Active Cooler for Raspberry Pi 5, Armor Lite V5 Cooler for Raspberry Pi 5, Aluminum Heatsink and Cooling Fan for Raspberry Pi 5
 
 - ORICO 256GB M.2 NVMe SSD, PCIe Gen3x4 2280 SSD - Up to 2400MB/s, Internal Solid State Drive with TLC NAND Flash, Compatible with Raspberry Pi 5 Desktop Laptop - D10
+
+- 4x M4 x 10mm screws and hex nuts
