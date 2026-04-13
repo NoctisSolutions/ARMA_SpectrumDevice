@@ -1,12 +1,15 @@
 # ARMA_SpectrumDevice
+<img width="2847" height="1792" alt="IMG_8052" src="https://github.com/user-attachments/assets/3a3921d2-8cc3-4a7d-94c7-ab30b13e9275" />
 
-My device based on the ARMA 3 Contact spectrum device
+
+
+# My device based on the ARMA 3 Contact spectrum device
 
 Built using the following:
 
 - nuand bladeRF 2.0 micro xA4
 
-- Raspberry Pi 5 16 GB
+- Raspberry Pi 5 16 GB (before RAM was super expensive)
 
 - 7 Inch IPS LCD Touch Screen Display Panel 1024×600 Capacitive Screen HDMI Monitor for Raspberry Pi
 
@@ -19,3 +22,6 @@ Built using the following:
 Screws and Nuts:
 
 - 4x M4 x 10mm screws and hex nuts
+- 12x M2.50 x 40mm screws and hex nuts
+  - You only need 8 but I have 4 holding the screen on too. You can use a shorter screw set for the screen
+- PLA or whatever 3D filament you desire
